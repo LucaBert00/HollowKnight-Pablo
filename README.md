@@ -246,10 +246,12 @@ java -cp "lib/*;out/production/HollowKnight-Pablo" pablo.Launcher
 
 ## Documentation
 
-The full technical report (in Italian) documents the architecture, the map graph, the boss state
-machine and the debugging log:
+Both documents are in Italian and ship with the repository:
 
-📄 **[HollowKnight-Pablo — Relazione Tecnica (PDF)](docs/HollowKnight-Pablo-Relazione-Tecnica.pdf)**
+| Document | Contents |
+|---|---|
+| 📄 **[Relazione Tecnica (PDF)](docs/HollowKnight-Pablo-Relazione-Tecnica.pdf)** | Architecture, map graph, boss state machine, animation systems and debugging log |
+| 📊 **[Presentazione (PDF)](docs/HollowKnight-Pablo-Presentazione.pdf)** | Project overview, gameplay and technical highlights |
 
 ---
 
